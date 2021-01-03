@@ -20,7 +20,7 @@ Download binaries and untar it somewhere. That's all.
 
 [coin-sources-1.2.1.tar.xz]: https://github.com/piotrborek/coin/raw/main/files/coin-sources-1.2.1.tar.xz
 [coin-linux-x86_64-1.2.1.tar.xz]: https://github.com/piotrborek/coin/raw/main/files/coin-linux-x86_64-1.2.1.tar.xz
-[coin-windows-x86_64-1.2.1.zip]: https://github.com/piotrborek/gcoin/raw/main/files/coin-windows-x86_64-1.2.1.zip
+[coin-windows-x86_64-1.2.1.zip]: https://github.com/piotrborek/coin/raw/main/files/coin-windows-x86_64-1.2.1.zip
 
 # Screenshots
 
